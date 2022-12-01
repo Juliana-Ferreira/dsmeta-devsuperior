@@ -13,6 +13,6 @@ Projeto desenvolvido durante a semana Spring React Devsuperior (14/nov - 18/nov)
 - ``Java 17``
 - ``JPA e Hibernate``
 - ``Banco de dados H2``
-- ``STS``
+- ``Spring Boot``
 - ``Postman``
 - ``Paradigma de orientação a objetos``
